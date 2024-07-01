@@ -1,4 +1,4 @@
-## Hi there 👋
+### Contact 👋
 <p>
   <a href="mailto:dksdyd78@naver.com" target="_blank"><img src="https://img.shields.io/badge/dksdyd78@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 </p>

@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p>
-  <a href="mailto:dksdyd78@naver.com" target="_blank"><img src="https://img.shields.io/badge/dksdyd78@naver.com-EA4335?style=flat-square&logo=Naver&logoColor=Green"/></a>
+  <a href="mailto:dksdyd78@naver.com" target="_blank"><img src="https://img.shields.io/badge/dksdyd78@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=White"/></a>
 </p>
 <!--
 **ChoiAnYong/ChoiAnYong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

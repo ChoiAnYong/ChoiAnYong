@@ -2,7 +2,7 @@
 <p>
   <a href="mailto:dksdyd78@naver.com" target="_blank"><img src="https://img.shields.io/badge/dksdyd78@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dksdyd78@naver.com&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoiAnYong&show_icons=true&theme=radical)
 <!--
 **ChoiAnYong/ChoiAnYong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

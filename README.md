@@ -6,8 +6,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChoiAnYong&count_bg=%2385E4FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![ANYONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiholee0&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/ChoiAnYong/github-readme-stats)
-
- <br>
+ </div><br>
  
  ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">

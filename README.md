@@ -20,12 +20,17 @@
   
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
+  <div>
     <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logoColor=white"/>
     <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
+    <img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=Firebase&logoColor=white">
+  <div>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
+    <img src="https://img.shields.io/badge/JAVA-F05138?style=for-the-badge">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=OpenGL&logoColor=white"/>
     <br>

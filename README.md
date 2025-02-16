@@ -30,6 +30,17 @@
     <br>
 </div><br>
 </div>
+
+## 💻 Project 💻
+| | Spoony | TDD |
+|:-:|:-:|:-:|
+|AppIcon| <img src="https://github.com/user-attachments/assets/f735e6aa-99c8-42c4-92b7-a502b0a6ec9b" width="100"/> | <img src="https://github.com/user-attachments/assets/af35c86f-ea09-4e2c-b424-62dd39e3b4e5" width="100"/> |
+|기술스택| SwiftUI MVI | SwiftUI MVVM |
+|기간| 2025.01 ~ (진행중) | 2024.07 ~ 2025.11 |
+|Repository| [Link](https://github.com/ToDeveloperDo/TDD-fe) | [Link](https://github.com/SOPT-all/35-APPJAM-iOS-SPOONY)
+|AppStore| - | [Link](https://apps.apple.com/kr/app/tdd/id6667115881) |
+
+
 <!--
 **ChoiAnYong/ChoiAnYong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

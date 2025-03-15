@@ -34,7 +34,7 @@
 ## 💻 Project 💻
 | | Spoony | TDD |
 |:-:|:-:|:-:|
-|AppIcon| <img src="https://github.com/user-attachments/assets/f735e6aa-99c8-42c4-92b7-a502b0a6ec9b" width="100"/> | <img src="https://github.com/user-attachments/assets/af35c86f-ea09-4e2c-b424-62dd39e3b4e5" width="100"/> |
+|AppIcon| <img src="https://github.com/user-attachments/assets/f735e6aa-99c8-42c4-92b7-a502b0a6ec9b" width="100"/> | <img src="https://github.com/user-attachments/assets/e4462470-7569-4d26-8bd7-7429e6dbcee1" width="100"/> |
 |기술스택| SwiftUI MVI | SwiftUI MVVM |
 |기간| 2025.01 ~ (진행중) | 2024.07 ~ 2024.11 |
 |Repository| [Link](https://github.com/SOPT-all/35-APPJAM-iOS-SPOONY) | [Link](https://github.com/ToDeveloperDo/TDD-fe)
